@@ -12,7 +12,9 @@
 
 
 <a href = "https://vikasmain.github.io/"> Website </a>
+
 <a href= "https://drive.google.com/file/d/1gjrqC2RnB9LWq2X-L3qNm1lUoA30m0he/view"> Resume</a>
+
 <a href= "https://www.linkedin.com/in/vikas-bajpayee-4a17aa106/>Linkedin</a>
 
 Email:- vikpichai@gmail.com
