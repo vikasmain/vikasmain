@@ -10,9 +10,9 @@
 
 [<img align="left" alt="Github Contrinution" width="100%" src="https://raw.githubusercontent.com/avcbcoder/avcbcoder/master/images/github-contribution.png" />][website]
 <br/>
-<br/>
 
-[website]: https://vikasmain.github.io/
+
+[website][https://vikasmain.github.io/]!
 [resume]: https://drive.google.com/file/d/1gjrqC2RnB9LWq2X-L3qNm1lUoA30m0he/view
 [linkedin]: https://www.linkedin.com/in/vikas-bajpayee-4a17aa106/
 [gmail]: mailto: vikpichai@gmail.com
