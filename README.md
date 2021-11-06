@@ -3,7 +3,7 @@
 ## I'm an Android Engineer!!
 
 - I’m currently using kotlin and latest android technologies for my projects.
-- Check out my linkedin profile
+- Check out my <a href="https://www.linkedin.com/in/vikas-bajpayee-4a17aa106/">linkedin profile</a>
 
 ### Github contribution:
 
