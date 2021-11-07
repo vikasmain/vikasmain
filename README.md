@@ -21,5 +21,5 @@ Email:- vikpichai@gmail.com
 
 Recent blogs:-
 
-https://github-readme-medium-recent-article.vercel.app/medium/vikas.bajpayee/3
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vikas.bajpayee/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vikas.bajpayee/3" alt="Recent Article 0"> 
 
