@@ -18,3 +18,8 @@
 Linkedin:- <a href= "https://www.linkedin.com/in/vikas-bajpayee-4a17aa106/">Linkedin</a>
 
 Email:- vikpichai@gmail.com
+
+Recent blogs:-
+
+https://github-readme-medium-recent-article.vercel.app/medium/vikas.bajpayee/3
+
