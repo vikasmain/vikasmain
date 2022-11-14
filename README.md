@@ -13,7 +13,7 @@
 
 <p><b>Check out my website:</b>-<a href = "https://vikasmain.github.io/"> Website </a></p>
 
-<p><b>Resume:</b>-<a href= "https://drive.google.com/file/d/1fTO_kgmxAygix2wGrQYjTtljPrzCTdbk/view"> Resume</a></p>
+<p><b>Resume:</b>-<a href= "https://drive.google.com/file/d/1qSGTR9IFsvIyRqELwbhYSUu7gHAQzm9F/view"> Resume</a></p>
 
 <b>Linkedin:-</b> <a href= "https://www.linkedin.com/in/vikas-bajpayee-4a17aa106/">Linkedin</a>
 
